@@ -57,7 +57,7 @@ public class Project3 extends Application {
 	int[] iDList2  = {111111, 110001, 120002, 130003, 140004, 150005, 160006, 170007, 180008, 190009}; //Assumption that Doctor ID is known (according to the professor)
 	int[] iDList3  = {211111, 210001, 220002, 230003, 240004, 250005, 260006, 270007, 280008, 90009}; //Assumption that Nurse ID is known (according to the professor)
 	
-	String[] passwordList1  = {"", "", "", "", "", "", "", "", "", "", }; //Assumption that Patient password is unknown (according to the professor)
+	String[] passwordList1  = {"", "", "", "", "", "", "", "", "", ""}; //Assumption that Patient password is unknown (according to the professor)
 	String[] passwordList2  = {"abc11", "abc22", "abc33", "abc44", "abc55", "abc66", "abc77", "abc88", "abc99", "abc10", }; //Assumption that Doctor password is known (according to the professor)
 	String[] passwordList3  = {"abc111", "abc221", "abc331", "abc441", "abc551", "abc661", "abc771", "abc881", "abc991", "abc101", }; //Assumption that Nurse Password is known (according to the professor)
 	
